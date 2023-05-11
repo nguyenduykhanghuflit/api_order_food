@@ -80,7 +80,6 @@ router.put('/status', authMiddleware, async (req, res) => {
   if (!listStatus[status])
     return res.send(handleRespone(false, 'Status Invalid', null, 400));
 
-  //define updateable statuses
   const statusValid = {
     waitting: ['approve', 'failed'],
     approve: ['dilivery'],
