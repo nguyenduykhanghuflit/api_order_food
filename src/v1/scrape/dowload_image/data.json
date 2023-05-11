@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Okinawa Milk Foam Smoothie",
+    "categoriesId": "644a300ee9681884f25e510b",
+    "description": "Thức uống đã bao gồm kem sữa & trân châu đen, vui lòng không\n              đổi topping có sẵn",
+    "price": 71000,
+    "image": ["/images/09418ce6-4008-4690-1814-e19c8c1453d3.jpg"]
+  },
+  {
+    "name": "Trà Đen Sữa Tươi Sương Sáo",
+    "categoriesId": "644a300ee9681884f25e510b",
+    "description": "Mức đá cố định: 50%",
+    "price": 51000,
+    "image": ["/images/7af5defc-f881-4ae8-fb47-b5426c8eb48c.jpg"]
+  },
+  {
+    "name": "Trà sữa Okinawa",
+    "categoriesId": "644a300ee9681884f25e510b",
+    "description": "Thức uống đã bao gồm trân châu đen, vui lòng không đổi topping có\n              sẵn",
+    "price": 65000,
+    "image": ["/images/a1049ba2-b586-4401-9a8b-2bd2dd3eaa7c.jpg"]
+  },
+  {
+    "name": "Sữa tươi Okinawa",
+    "categoriesId": "644a300ee9681884f25e510b",
+    "description": "Thức uống đã bao gồm trân châu đen, vui lòng không đổi topping có\n              sẵn",
+    "price": 59000,
+    "image": ["/images/6f6ab024-657f-439f-728d-72f8b44a51d3.jpg"]
+  },
+  {
+    "name": "Okinawa Latte",
+    "categoriesId": "644a300ee9681884f25e510b",
+    "description": "Thức uống đã bao gồm trân châu đen, vui lòng không đổi topping có\n              sẵn",
+    "price": 65000,
+    "image": ["/images/6df2f3fe-8009-4f12-f375-0d121594712d.jpg"]
+  },
+  {
+    "name": "Trà xanh Gong Cha",
+    "categoriesId": "644a300ee9681884f25e510b",
+    "description": "Thức uống đã bao gồm kem sữa, vui lòng không đổi topping có sẵn",
+    "price": 55000,
+    "image": ["/images/c0faa0c1-4afe-43e9-c694-bc9d3fb27d47.jpg"]
+  },
+  {
+    "name": "Trà Alisan Gong Cha",
+    "categoriesId": "644a300ee9681884f25e510b",
+    "description": "Thức uống đã bao gồm kem sữa, vui lòng không đổi topping có sẵn",
+    "price": 59000,
+    "image": ["/images/1bc3813f-df46-4d2b-262c-967027a71acc.jpg"]
+  },
+  {
+    "name": "Trà Đen Gong Cha",
+    "categoriesId": "644a300ee9681884f25e510b",
+    "description": "Thức uống đã bao gồm kem sữa, vui lòng không đổi topping có sẵn",
+    "price": 55000,
+    "image": ["/images/82dcb95b-4a66-46fb-031f-66e01e791f6e.jpg"]
+  },
+  {
+    "name": "Trà Bí Đao Gong Cha",
+    "categoriesId": "644a300ee9681884f25e510b",
+    "description": "Thức uống đã bao gồm kem sữa, vui lòng không đổi topping có sẵn",
+    "price": 59000,
+    "image": ["/images/60a0a706-cd94-4087-cab1-03a009193027.jpg"]
+  },
+  {
+    "name": "Trà Oolong Gong Cha",
+    "categoriesId": "644a300ee9681884f25e510b",
+    "description": "Thức uống đã bao gồm kem sữa, vui lòng không đổi topping có sẵn",
+    "price": 59000,
+    "image": ["/images/cac9299b-7b50-4452-0816-d1d0b840ca03.jpg"]
+  },
+  {
+    "name": "Trà xanh",
+    "categoriesId": "644a300ee9681884f25e510b",
+    "description": "Trà xanh",
+    "price": 45000,
+    "image": ["/images/733adbea-1798-474a-01de-f0a7b249200d.jpg"]
+  },
+  {
+    "name": "Trà đen",
+    "categoriesId": "644a300ee9681884f25e510b",
+    "description": "Trà đen",
+    "price": 45000,
+    "image": ["/images/f80e3e6e-4075-4a61-f958-b8a6d4f219c5.jpg"]
+  },
+  {
+    "name": "Trà Alisan",
+    "categoriesId": "644a300ee9681884f25e510b",
+    "description": "Trà Alisan",
+    "price": 48000,
+    "image": ["/images/93f44953-84a9-44f9-f31e-38b227fe5b07.jpg"]
+  },
+  {
+    "name": "Trà Oolong",
+    "categoriesId": "644a300ee9681884f25e510b",
+    "description": "Trà Oolong",
+    "price": 48000,
+    "image": ["/images/891c1d79-5cf9-49e5-e655-f3aa771a8837.jpg"]
+  },
+  {
+    "name": "Trà Bí Đao Alisan",
+    "categoriesId": "644a300ee9681884f25e510b",
+    "description": "Trà Bí Đao Alisan",
+    "price": 48000,
+    "image": ["/images/8ef37600-96e7-4dbe-431b-dd4377c83621.jpg"]
+  },
+  {
+    "name": "Trà Bí Đao",
+    "categoriesId": "644a300ee9681884f25e510b",
+    "description": "Trà Bí Đao",
+    "price": 48000,
+    "image": [
+      "/images/44ffcc6a-6dd0-46ba-a0f6-01c4eeb9-0f7242c6-230424105246.jpeg"
+    ]
+  }
+]
