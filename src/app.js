@@ -11,7 +11,7 @@ const models = require('./v1/models');
 
 //user middleware
 app.use(helmet());
-// app.use(morgan('combined'));
+app.use(morgan('combined'));
 app.use(cors({ credentials: true, origin: true }));
 // compress responses
 app.use(compression());
